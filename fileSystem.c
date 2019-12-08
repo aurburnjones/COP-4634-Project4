@@ -5,8 +5,8 @@
  *  UNIX-type file system. Re-written from Dr. Reichherzer's source code.
  *
  *  @author Aurburn Jones
- *  @author David Warren
- *  @date 12/09/2018
+ *  @author Derrick Masters
+ *  @date 12/03/2019
  *  @info Course COP 4634
  *  @bug No known bugs.
  */
